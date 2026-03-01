@@ -13,7 +13,8 @@ I'm an electrical engineering student passionate about signal processing, power 
 ## Currently learning
 
 - Developing MacOS apps with SWIFT
-- Learning OpenGL rendering with C
+- OpenGL rendering with C
+- Becoming fluent in japanese ;)
 
 ## Languages and Tools
 
