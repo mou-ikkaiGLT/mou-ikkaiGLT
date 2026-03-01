@@ -23,6 +23,9 @@ I'm an electrical engineering student passionate about signal processing, power 
 ![Microcontroller C](https://img.shields.io/badge/Microcontroller_C-555555?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-8B0000?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Tools:**
 ![DE1-SoC](https://img.shields.io/badge/DE1--SoC-0071C5?style=flat-square&logo=intel&logoColor=white)
