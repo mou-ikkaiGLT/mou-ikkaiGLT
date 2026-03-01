@@ -36,7 +36,6 @@ I'm an electrical engineering student passionate about signal processing, power 
 
 ## Get in touch
 
-- GitHub: [@mou-ikkaiGLT](https://github.com/mou-ikkaiGLT)
 - Linkedin: https://www.linkedin.com/in/joegraham04/
 
 ---
