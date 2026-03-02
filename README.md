@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="cuppajoe.gif" alt="CuppaJoe" width="220">
+</div>
+
 # Hey, I'm Joe. Welcome To My Profile!
 
 <!-- A little about you -->
