@@ -9,6 +9,7 @@ I'm an electrical engineering student passionate about signal processing, power 
 
 - [VisualScannerApp](https://github.com/mou-ikkaiGLT/VisualScannerApp) — Scan any popular language to transcribe and translate
 - [my-renderer](https://github.com/mou-ikkaiGLT/my-renderer) — OpenGL based shape renderer
+- [ArduinoAngleMeasurement](https://github.com/mou-ikkaiGLT/ArduinoAngleMeasurement) - Work with my-renderer project to mimic physical arduino angle with rendered shape angle
 
 ## Currently learning
 
