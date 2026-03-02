@@ -13,11 +13,13 @@ I'm an electrical engineering student passionate about signal processing, power 
 
 - [VisualScannerApp](https://github.com/mou-ikkaiGLT/VisualScannerApp) — Scan any popular language to transcribe and translate
 - [my-renderer](https://github.com/mou-ikkaiGLT/my-renderer) — OpenGL based shape renderer
+- [ArduinoAngleMeasurement](https://github.com/mou-ikkaiGLT/ArduinoAngleMeasurement) - Work with my-renderer project to mimic physical arduino angle with rendered shape angle
 
 ## Currently learning
 
 - Developing MacOS apps with SWIFT
-- Learning OpenGL rendering with C
+- OpenGL rendering with C
+- Becoming fluent in japanese ;)
 
 ## Languages and Tools
 
@@ -39,7 +41,6 @@ I'm an electrical engineering student passionate about signal processing, power 
 
 ## Get in touch
 
-- GitHub: [@mou-ikkaiGLT](https://github.com/mou-ikkaiGLT)
 - Linkedin: https://www.linkedin.com/in/joegraham04/
 
 ---
