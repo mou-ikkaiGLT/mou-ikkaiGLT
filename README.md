@@ -19,6 +19,7 @@ I'm an electrical engineering student passionate about signal processing, power 
 
 - Developing MacOS apps with SWIFT
 - OpenGL rendering with C
+- Vector design with Figma
 - Becoming fluent in japanese ;)
 
 ## Languages and Tools
