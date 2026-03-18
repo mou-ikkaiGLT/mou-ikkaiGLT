@@ -40,6 +40,10 @@ I'm an electrical engineering student passionate about signal processing, power 
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
+## Anki Daily Reviews
+
+![Anki Daily Reviews](https://raw.githubusercontent.com/mou-ikkaiGLT/AnkiDailyReviews/main/heatmap.svg)
+
 ## Get in touch
 
 - Linkedin: https://www.linkedin.com/in/joegraham04/
